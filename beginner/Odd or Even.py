@@ -1,7 +1,5 @@
-number=int(input("Input:"))
+number=int(input())
 if (number %2==0):
-  print("Output:")
   print("Even")
 else:
-  print("Output:")
   print("Odd")
